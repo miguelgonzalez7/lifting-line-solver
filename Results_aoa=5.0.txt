@@ -1,0 +1,11 @@
+3D Wing Results
+Case 3
+Altitude (m): 1000.00
+Freestream Velocity (m/s): 45.00
+Angle of Attack (deg): 5.00
+
+         N         Cl_wing         Cd_wing
+        10        0.420345        0.014400
+        20        0.464490        0.016247
+        50        0.483280        0.017355
+       100        0.487170        0.017718

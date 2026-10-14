@@ -1,0 +1,9 @@
+3D Wing Aerodynamic Results
+Case 1: Single AoA
+Altitude (m): 1000.00
+Freestream Velocity (m/s): 45.00
+Angle of Attack (deg): 12.00
+Discretisation (N): 50
+
+Lift Coefficient (Cl_wing): 1.009245
+Drag Coefficient (Cd_wing): 0.068069
